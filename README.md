@@ -5,6 +5,12 @@
  ### Quick Stats
  
  [![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas-Sri)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ 
+ ### Top Langs
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Sri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
               
 <!---
 Ojas-Sri/Ojas-Sri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
