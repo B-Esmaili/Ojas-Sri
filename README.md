@@ -4,12 +4,12 @@
  
  ### Quick Stats
  
- [![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas-Sri)](https://github.com/anuraghazra/github-readme-stats)
+ [![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojas-Sri&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
  ### Top Langs
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Sri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojas-Sri&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
  
               
 <!---
